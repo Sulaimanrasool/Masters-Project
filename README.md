@@ -1,5 +1,4 @@
 # Masters-Project
-Year 3 Computational Physics module, project 1
 Date: 01/07/2022
 Authors: Sulaiman Rasool
 ---------------------------------------------------------
